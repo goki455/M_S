@@ -20,7 +20,7 @@ jobs:
           python -m pip install python-pushsafer
           python -m pip install selenium
           
-      - name: execute py script # run main.py
+      - name: execute py script # run main.py#
 
         run: python main.py
           
